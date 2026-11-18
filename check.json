@@ -1,0 +1,14 @@
+{
+  "command": [
+    "node",
+    "app.mjs"
+  ],
+  "expected": {
+    "counts": [
+      10,
+      6
+    ],
+    "outsideCount": 4,
+    "sourceCount": 20
+  }
+}
